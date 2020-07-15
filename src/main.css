@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Lobster&display=swap');
+
+
+h4 {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    margin-top: 5%;
+}
+
+.titulo {
+    font-size: 78px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 0px 3px 6px #636363;
+    margin-bottom: 5%;
+}
+
+h5 {
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: #731AB7;
+    color: #FFFFFF;
+}
+
+.cont1 {
+    background-color: #0a010137;
+    text-align: center;
+    padding: 3%;
+
+}
+
+.row {
+    margin-bottom: 5%;
+}
+
+.cont2 {
+    background-color: #ffffff61;
+    color: #FFFFFF;
+    text-align: left;
+    padding-top: 2%;
+    padding-bottom: 1px;
+    padding-left: 6%;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+label {
+    font-family: 'Lato', sans-serif;
+
+}
+
+input {
+    background-color: #0a01010d;
+    top: 345px;
+    left: 775px;
+    width: 170px;
+    height: 71px;
+    border: 5px solid #F7F7F7;
+    opacity: 1;
+}
+
+.i1 {
+    color: white;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+#acompanhamentos {
+    width: auto;
+    height: auto;
+}
+
+#botaoCalcular {
+    background: #63DC3E !important;
+    color: #731AB7;
+    font-size: 20px;
+    font-weight: 500;
+    top: 722px;
+    left: 803px;
+    width: 314px;
+    height: 77px;
+    box-shadow: 0px 3px 6px #F8F0F029;
+    border-radius: 5px;
+    opacity: 1;
+}
